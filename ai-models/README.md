@@ -33,7 +33,7 @@ Rscript classification_models.R -i <input_file>
 
 Outputs:
 - Trained models (`initial_class_model.qs2`, `reduced_class_model.qs2`) in `models/`
-- Metrics table (`metrics_all.tsv`) in `models/`
+- Metrics table (`metrics_all_classification.tsv`) in `models/`
 
 ### Survival Models
 Train and evaluate a survival analysis model:
